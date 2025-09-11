@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recipe>Ingredients Original recipe (1X) yields <serving_amt>4 servings</serving_amt>
+<!--    example to see push change-->
     <ing>
         <amt>2 <measurement>teaspoons</measurement></amt> unsalted butter <amt>1 (12
                 <measurement>oounce</measurement>) package</amt> garlic and herb chicken sausage,
@@ -10,6 +11,7 @@
     <cost>Buy all 7 ingredients from this recipe for $20.45 </cost> Directions <step type="1"
         step="first">Melt <ing>butter</ing> in a <tool>skillet</tool> over <temp>medium heat</temp>.
         Add <ing>sausage</ing>, and cook, stirring, until golden, about <time>5 minutes</time>.
+<!--        example two!-->
         Transfer <ing>sausage</ing> to a <tool>plate</tool> and <temp>keep warm. </temp></step>
     <step type="2">Add <ing>gnocchi</ing> and <ing>chicken broth</ing> to the <tool>skillet</tool>;
         cover and cook for <time>4 minutes</time>. Stir in <ing>whipping cream</ing> and <ing>spinach</ing>; cook until
