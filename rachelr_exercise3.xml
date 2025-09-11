@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>Ingredients Original recipe (1X) yields <serving_amt>4 servings</serving_amt>
+    <ing>
+        <amt>2 <measurement>teaspoons</measurement></amt> unsalted butter <amt>1 (12
+                <measurement>oounce</measurement>) package</amt> garlic and herb chicken sausage,
+        sliced diagonally <amt>14</amt> ounces frozen gnocchi <amt>2</amt> tablespoons chicken bone
+        broth <amt>1</amt> clove garlic, minced <amt>2 <measurement>tablespoons</measurement></amt>
+        heavy cream <amt>1/2 <measurement>cup</measurement>
+        </amt>torn spinach </ing>
+    <cost>Buy all 7 ingredients from this recipe for $20.45 </cost> Directions <step type="1"
+        step="first">Melt <ing>butter</ing> in a <tool>skillet</tool> over <temp>medium heat</temp>.
+        Add <ing>sausage</ing>, and cook, stirring, until golden, about <time>5 minutes</time>.
+        Transfer <ing>sausage</ing> to a <tool>plate</tool> and <temp>keep warm. </temp></step>
+    <step type="2">Add <ing>gnocchi</ing> and <ing>chicken broth</ing> to the <tool>skillet</tool>;
+        cover and cook for <time>4 minutes</time>. Stir in <ing>whipping cream</ing> and <ing>spinach</ing>; cook until
+        <ing>spinach</ing> is wilted, <time>1 to 2 minutes</time>. </step>
+    <step type="3" step="last">Return <ing>sausage</ing> to the <tool>skillet</tool>. Stir to combine. Serve <time>immediately</time>.
+    </step>
+<!--This recipe made me super hungry.-->
+    <linebreak />
+</recipe>
